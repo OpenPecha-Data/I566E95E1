@@ -1,0 +1,11 @@
+id: 79fdbaeb84d84a04afe2a09001f7c75d
+annotation_type: index
+revision: '00001'
+annotations:
+  aaf31dfee82143d395066f79a72ab2c0:
+    base: 9CA6.txt
+    Chapters:
+    - title: Mātṛkā
+      span:
+        start: 0
+        end: 5869
